@@ -1,0 +1,25 @@
+
+/* HTML Tag Selectors */
+h1{
+  color:#66BFBF;
+}
+h2{
+  color:#66BFBF;
+}
+hr
+{
+border-color:#71c9ce;
+  border-width:5px;
+  width:50px;
+  border-style:dotted none none none;}
+
+body{
+  background-color:#e3fdfd;
+}
+
+
+/* Class */
+
+
+
+/* IDs */
